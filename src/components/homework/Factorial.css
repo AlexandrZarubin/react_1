@@ -1,0 +1,17 @@
+.factorial {
+    background: #ececec;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  .factorial h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .factorial p {
+    font-weight: bold;
+    color: darkblue;
+  }
+  
